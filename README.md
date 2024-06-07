@@ -1,5 +1,4 @@
-# UTN-PDP-Parcial-Funcional
-Parcial funcional para "Paradigmas de progrmacion"
+# Parcial Functional Master Series (FMS)
 
-Enunciado:
-https://docs.google.com/document/d/1AtD9mZGiUNEKmZ_aaWSCoNaeowLTMUhFRVHm-GZIF-w/edit#heading=h.jgz5zugwrvm5
+- El enunciado será provisto en la [bitácora](https://github.com/pdepjm/bitacoras/blob/main/2021/10-ParcialFuncional.md) y por Discord.
+- Completar nombre y apellido en el archivo Library.hs
